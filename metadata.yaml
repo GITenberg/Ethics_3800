@@ -1,5 +1,5 @@
 _repo: Ethics_3800
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Ethica Ordine Geometrico Demonstrata
 - Ethica. English
@@ -10,6 +10,9 @@ contributor:
     birthdate: 1853
     gutenberg_agent_id: '474'
     url: http://www.gutenberg.org/2009/agents/474
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spinoza, Benedictus de
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/473
     wikipedia: http://en.wikipedia.org/wiki/Baruch_Spinoza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3800#Ethics
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
